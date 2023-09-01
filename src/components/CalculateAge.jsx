@@ -33,7 +33,7 @@ export default function CalculateAge() {
 
   return (
     <div className="container">
-      <h1 className="title">Easy Age Calculator</h1>
+      <h1 className="title">Age Calculator</h1>
       <p className="subtitle">
         Tract Your Life's Progress: Age in Years, Months, and Days!
       </p>
